@@ -1,0 +1,20 @@
+{
+  "name": "safekid",
+  "version": "1.0.0",
+  "description": "safety tool for kids",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmgAlex/safekid.git"
+  },
+  "author": "Alex True",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmgAlex/safekid/issues"
+  },
+  "homepage": "https://github.com/OmgAlex/safekid#readme"
+}
