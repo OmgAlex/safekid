@@ -1,2 +1,0 @@
-# safekid
-safety tool
